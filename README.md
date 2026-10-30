@@ -14,11 +14,10 @@ I am the founder and sole programmer behind **Logic Cloud Geo (LCG)**, an indepe
 
 | Project | Purpose |
 | --- | --- |
-| Geological framework and subsurface services | Make published framework information useful through interactive maps, location-based queries, and documented scientific methods. The Floridan Aquifer System is the current reference example. |
-| Geophysical Log Workbench | Plot individual wells using available USGS DS760 LAS files or user-supplied LAS and lithology data, with downloadable outputs. |
-| TDS Estimator | Explore formation-water salinity from geophysical-log measurements and explicit, adjustable assumptions. |
-| Terrain elevation service | Provide elevation information for geospatial applications. [Public repository](https://github.com/logiccloudgeo/lcg-terrain-elevation-api). |
-| Xsect + WLP | Develop reproducible Python and ArcGIS Pro workflows for geological cross sections and well-log presentation. |
+| [Geological framework and subsurface services](https://logiccloudgeo.com/subsurface/) | Make published framework information useful through interactive maps, location-based queries, and documented scientific methods. The Floridan Aquifer System is the current reference example. [USGS Professional Paper 1807](https://pubs.usgs.gov/pp/1807/) · [AGOL map collection](https://logiccloudgeo.com/arcgis-maps/). |
+| [Geophysical Log Workbench](https://logiccloudgeo.com/workbench/well-log-plotter/) | Plot individual wells using available USGS DS760 LAS files or user-supplied LAS and lithology data, with downloadable outputs. |
+| [TDS Estimator](https://logiccloudgeo.com/workbench/tds-estimator/) | Explore formation-water salinity from geophysical-log measurements and explicit, adjustable assumptions. |
+| [Terrain elevation service](https://logiccloudgeo.com/elevation/) | Provide elevation information for geospatial applications. [Public repository](https://github.com/logiccloudgeo/lcg-terrain-elevation-api). |
 
 Some LCG source repositories are private. This profile describes their capabilities; access to source is provided only to authorized collaborators. The working public demonstrations are available on the LCG website, with free membership required for the Geophysical Log Workbench. Initial-release tools remain under testing and refinement.
 
