@@ -18,6 +18,7 @@ I am the founder and sole programmer behind **Logic Cloud Geo (LCG)**, an indepe
 | [Geophysical Log Workbench](https://logiccloudgeo.com/workbench/well-log-plotter/) | Plot individual wells using available USGS DS760 LAS files or user-supplied LAS and lithology data, with downloadable outputs. |
 | [TDS Estimator](https://logiccloudgeo.com/workbench/tds-estimator/) | Explore formation-water salinity from geophysical-log measurements and explicit, adjustable assumptions. |
 | [Terrain elevation service](https://logiccloudgeo.com/elevation/) | Provide elevation information for geospatial applications. [Public repository](https://github.com/logiccloudgeo/lcg-terrain-elevation-api). |
+| [Articles](https://logiccloudgeo.com/articles/) | [Estimating formation-water salinity from geophysical logs](https://logiccloudgeo.com/workbench/tds-estimator/how-it-works/)<br><br>[Giving published geoscience a working future](https://logiccloudgeo.com/articles/ds926-ingestion/)<br><br>[Floridan aquifer system subsurface elevation retrieval](https://logiccloudgeo.com/subsurface/how-it-works/) |
 
 Some LCG source repositories are private. This profile describes their capabilities; access to source is provided only to authorized collaborators. The working public demonstrations are available on the LCG website, with free membership required for the Geophysical Log Workbench. Initial-release tools remain under testing and refinement.
 
@@ -28,5 +29,12 @@ My focus includes water-resource management, hydrogeologic assessments, scientif
 The planned delivery model includes deployment into client-owned cloud environments, documentation, and training, with ongoing support defined separately. Azure is the current reference environment.
 
 I welcome conversations about scoped projects and future collaboration in geoscience, hydrogeology, Python, GIS, and scientific web services.
+
+## Contact
+
+For more information, project inquiries, or collaboration:
+
+- **Primary email:** [lesterw@LogicCloud.geo](mailto:lesterw@LogicCloud.geo)
+- **Phone:** [561.927.5059](tel:+15619275059)
 
 [Visit Logic Cloud Geo](https://logiccloudgeo.com)
